@@ -1,0 +1,14 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "교재": "text",
+    "2차 회의": "date",
+    "1차 회의(팀 결성)": "date",
+    "작성 시작 연월일": "date",
+    "작성 종료 연월일": "date",
+    "사용 툴": "multitext",
+    "교재 진도": "text"
+  }
+}
