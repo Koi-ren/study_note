@@ -146,13 +146,23 @@
               "icon": "lucide-list",
               "title": "Outline of create a link"
             }
+          },
+          {
+            "id": "3126f88206cefeec",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0e4238992ecf5e51",
+  "active": "aceb1a8d3401f2d0",
   "lastOpenFiles": [
     "Area/기저지식",
     "Area/딥러닝/케라스",
