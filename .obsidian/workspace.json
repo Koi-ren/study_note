@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "노트 정리.md",
-                "mode": "preview",
+                "file": "README.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "노트 정리"
+              "title": "README"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "5cc63a1178067e6a",
   "lastOpenFiles": [
-    "README.md",
     "노트 정리.md",
+    "README.md",
     "Resources/image/Pasted image 20250224110901.png",
     "Resources/image/Pasted image 20250306102644.png",
     "Resources/image/Pasted image 20250306174231.png",
