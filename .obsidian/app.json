@@ -3,9 +3,9 @@
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 100
+    "landscape": true,
+    "margin": "2",
+    "downscalePercent": 62
   },
   "promptDelete": false,
   "alwaysUpdateLinks": true
