@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fab6914364d30403",
+        "id": "d4974a92fc306822",
         "type": "tabs",
         "children": [
           {
-            "id": "5cc63a1178067e6a",
+            "id": "1f7f24e05f72c296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "프로젝트 진행 기록"
+            }
+          },
+          {
+            "id": "1182149d5e9edbe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/현대로템/강의 요약/웹 프로그래밍 강의 요약.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "웹 프로그래밍 강의 요약"
+            }
+          },
+          {
+            "id": "f514b30e3a89d84c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +47,27 @@
               },
               "icon": "lucide-file",
               "title": "케라스 딥러닝 - 2장"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "1aa2fb10fdb3a3f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad625fc34c22cdb9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2차 프로젝트 기획서"
             }
           }
         ]
@@ -40,7 +89,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -78,8 +127,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 351.5,
     "collapsed": true
+=======
+    "width": 247.5
+>>>>>>> ec5bd2d0d0912237468e8360f632d3bd51cae5bb
   },
   "right": {
     "id": "cbd10297ae07d9d1",
@@ -158,8 +211,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -181,9 +234,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cc63a1178067e6a",
+  "active": "f514b30e3a89d84c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Area/딥러닝/케라스/케라스 딥러닝 - 3장.md",
+=======
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/1차 프로젝트 기획서.md",
+    "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
+    "Project/현대로템/강의 요약/웹 프로그래밍 강의 요약.md",
+    "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
+    "Untitled 1.md",
+    "Project/현대로템/3차 프로젝트",
+    "Project/현대로템/2차 프로젝트/교수님 피드백/첨언.md",
+    "Project/현대로템/강의 요약/LLM 강의 요약.md",
+    "Area/딥러닝/케라스/케라스 딥러닝 - 3장.md",
+    "Project/현대로템/2차 프로젝트/교수님 피드백/2차 발표 피드백.md",
+    "노트 정리.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화",
+    "2025-03-13.md",
+    "Resources/pdf/스토리보드.pdf",
+    "Project/현대로템/2차 프로젝트/교수님 피드백/1차 발표 피드백.md",
+    "Project/재밌는 프로젝트 주제.md",
+>>>>>>> ec5bd2d0d0912237468e8360f632d3bd51cae5bb
     "README.md",
     "노트 정리.md",
     "Resources/image/Pasted image 20250224110901.png",
@@ -196,24 +270,19 @@
     "Resources/image/Pasted image 20250307174906.png",
     "Resources/image/Pasted image 20250306181342.png",
     "Resources/image/Pasted image 20250306180550.png",
+<<<<<<< HEAD
     "Project/재밌는 프로젝트 주제.md",
+=======
+>>>>>>> ec5bd2d0d0912237468e8360f632d3bd51cae5bb
     "Area/딥러닝/케라스/케라스 딥러닝 - 2장.md",
     "Project/현대로템/강의 요약/데이터 분석 강의 요약.md",
     "Project/현대로템/강의 요약/기획 및 데이터 전처리.md",
     "Project/현대로템/강의 요약/머신러닝 강의 요약.md",
-    "Project/현대로템/강의 요약/웹 프로그래밍 강의 요약.md",
     "Project/현대로템/강의 요약/딥러닝 강의 요약.md",
-    "Project/현대로템/2차 프로젝트/교수님 피드백/1차 발표 피드백.md",
-    "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
-    "Project/현대로템/2차 프로젝트/아이디어 정리.md",
-    "Project/현대로템/2차 프로젝트/프로젝트 기획서.md",
     "Resources/pdf/회의록-20250311.pdf",
     "Resources/pdf/vpr.pdf",
     "Resources/pdf/2104.14294v2.pdf",
     "Resources/pdf/모두의 딥러닝 (조태호).pdf",
-    "Project/현대로템/강의 요약/LLM 강의 요약.md",
-    "Untitled.md",
-    "Untitled",
     "Area/기저지식",
     "Area/딥러닝/케라스",
     "Project/현대로템/강의 요약",
@@ -222,12 +291,6 @@
     "Area/칼만필터/칼만필터.md",
     "Area/칼만필터/LPF.md",
     "Area/칼만필터/이동평균필터.md",
-    "Area/칼만필터/평균필터.md",
-    "Area/기저지식/빠른 텐서 연산을 위한 자료구조.md",
-    "Area/칼만필터",
-    "Project/현대로템/2차 프로젝트/2차 프로젝트.md",
-    "ㅖㅏ",
-    "Project/딥러닝 개인 공부/딥러닝 개인 공부 - 2장.md",
     "무제.canvas"
   ]
 }
