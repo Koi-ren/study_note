@@ -30,4 +30,11 @@
 - **기술적 요구**
     - 다양한 스킬 활용, 완성도 중심 경쟁
 
+
+| **부품**  | **모델**                    | **사양**                 | **최저가 (KRW)** |
+| ------- | ------------------------- | ---------------------- | ------------- |
+| **CPU** | AMD Ryzen 9 5900X         | 12코어 24스레드, 4.8GHz     | 454,180원      |
+| **RAM** | G.Skill Ripjaws DDR5 64GB | 64GB (2x32GB), 5600MHz | 350,000원      |
+| **GPU** | NVIDIA RTX 4080           | 16GB VRAM              | 1,650,000원    |
+
 [^1]: [[최종프로젝트(3차)] ★★★3차 프로젝트 결과물 제출형식(노동부 지정 목차를 준수해야 함) ★★★ : 네이버 카페](https://cafe.naver.com/hrotem2?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D31345477%2526articleid%3D926%2526referrerAllArticles%3Dtrue)
