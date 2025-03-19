@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2차 프로젝트 기획서"
+              "title": "README"
             }
           }
         ],
@@ -231,8 +231,8 @@
   },
   "active": "f514b30e3a89d84c",
   "lastOpenFiles": [
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/1차 프로젝트 기획서.md",
     "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
     "Project/현대로템/강의 요약/웹 프로그래밍 강의 요약.md",
