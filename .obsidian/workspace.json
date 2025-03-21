@@ -1,5 +1,6 @@
 {
   "main": {
+<<<<<<< Updated upstream
     "id": "9621d6603d45f89a",
     "type": "split",
     "children": [
@@ -9,16 +10,35 @@
         "children": [
           {
             "id": "7a74a21e9ff3f870",
+=======
+    "id": "75320271e72c7488",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c044d7e0a4be895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b2acba422fc4a02",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "2차 프로젝트 기획서"
+=======
+              "title": "README"
+>>>>>>> Stashed changes
             }
           },
           {
@@ -62,6 +82,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< Updated upstream
     "id": "502e1cbf8b4e94f0",
     "type": "split",
     "children": [
@@ -71,6 +92,17 @@
         "children": [
           {
             "id": "d3a26518e876ee45",
+=======
+    "id": "4581f7368ce4b236",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a5177b7e0e2b0f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8624fe6fb257d6b5",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,7 +115,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "04e001bb4f66563b",
+=======
+            "id": "392537044f979a92",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "search",
@@ -100,7 +136,11 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "baac787a9ed9cabb",
+=======
+            "id": "de0e386707256d1b",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -116,6 +156,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< Updated upstream
     "id": "9e2bce2c8894eb8d",
     "type": "split",
     "children": [
@@ -125,10 +166,25 @@
         "children": [
           {
             "id": "ccbc5eb1f1ed8c65",
+=======
+    "id": "63de404f58971800",
+    "type": "split",
+    "children": [
+      {
+        "id": "f390f90d4af3a527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62a33cb14bb1a2be",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,24 +194,44 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
+<<<<<<< Updated upstream
               "title": "Backlinks"
             }
           },
           {
             "id": "620661f6e71ec8ef",
+=======
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "0094e149e5d532e2",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
+<<<<<<< Updated upstream
               "title": "Outgoing links"
             }
           },
           {
             "id": "37bb3eaba9e2d54f",
+=======
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "bc286190b20ecb46",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -170,17 +246,29 @@
             }
           },
           {
+<<<<<<< Updated upstream
             "id": "71cf44928983f8e2",
+=======
+            "id": "630d083f0f47c8d6",
+>>>>>>> Stashed changes
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
+=======
+                "file": "README.md",
+>>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
+<<<<<<< Updated upstream
               "title": "Outline"
+=======
+              "title": "Outline of README"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -201,6 +289,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< Updated upstream
   "active": "8190c101822eeecd",
   "lastOpenFiles": [
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
@@ -210,4 +299,8 @@
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "npu 쓸래요.md"
   ]
+=======
+  "active": "0b2acba422fc4a02",
+  "lastOpenFiles": []
+>>>>>>> Stashed changes
 }
