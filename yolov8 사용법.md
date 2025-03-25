@@ -60,3 +60,4 @@ yolo train model=sajeon_haksup2.pt data=data.yaml epochs=100 imgsz=640 batch=16 
 ```
 
 ## 다섯 번쨰 하이퍼 파라미터 튜닝 (예정)
+
