@@ -26,21 +26,23 @@
 yolo predict model=C:/Users/USER/Desktop/yolov8-main/yolov8-main/gkrltlfgdmsrj.v1i.yolov8.copy1/runs/detect/train/weights/best.pt source="C:/Users/USER/Desktop/yolov8-main/yolov8-main/gkrltlfgdmsrj.v1i.yolov8.copy1/test_video_0.mp4" imgsz=640 save=True conf=0.5 show=True
 ```
 
-## 첫 번째 파인튜닝
+## 첫 번째 모델
 ```bash
 (yolov8_env) C:\Users\USER\Desktop\yolov8-main\yolov8-main\gkrltlfgdmsrj.v1i.yolov8.copy
 
 >>> yolo train model=sajeon_haksup.pt data=data.yaml epochs=50 imgsz=640 batch=16 pretrained=True lr0=0.001
 ```
 
-##  두 번째 파인튜닝
+##  두 번째 모델
 ```bash
 >>> yolo train model=sajeon_haksup.pt data=data.yaml epochs=50 imgsz=640 batch=16 pretrained=True lr0=0.001 freeze=10
 ```
 
 ## 세 번째 파인튜닝
-정확도 현저히 떨어짐 -> 기존 data 와 merge 를 통해 fine tuning
-효과 $\Rightarrow$ 기존 대비 성능 30% 증가
+- 소요시간 : 30m 21s
+- 정확도 현저히 떨어짐
+- - 시도 방안 : 기존 data 와 merge 를 통해 fine tuning
+- 학습 결과 : 기존 대비 성능 30% 증가
 ```bash
 (yolov8_env) C:\Users\USER\Desktop\yolov8-main\yolov8-main\gkrltlfgdmsrj.v1i.yolov8.copy1>
 
@@ -48,12 +50,13 @@ yolo predict model=C:/Users/USER/Desktop/yolov8-main/yolov8-main/gkrltlfgdmsrj.v
 ```
 
 ## 네 번째 하이퍼 파라미터 튜닝
-정확도 범위 : 70 ~ 90%
-정확도 자체의 정밀도는 증가했으나 학교 출석에 사용될 정도로 정밀하지는 않음
-따라서 하이퍼 파라미터 튜닝 진행 : 
-- lr0=0.001 $\rightarrow$ 0.01 (학습률을 높여 혹시 모를 경사 하강시 발생할 최소 오차 방지)
-- cor_lr=False $\rightarrow$ cor_lr=True (코사인 학습률 스켈쥴러 활성화 통해 학습률을 부드럽게 감소)
+- 정확도 범위 : 70 ~ 90%
+- 정확도 자체의 정밀도는 증가했으나 학교 출석에 사용될 정도로 정밀하지는 않음
+- 따라서 하이퍼 파라미터 튜닝 진행 : 
+	- lr0=0.001 $\rightarrow$ 0.01 (학습률을 높여 혹시 모를 경사 하강시 발생할 최소 오차 방지)
+	- cor_lr=False $\rightarrow$ cor_lr=True (코사인 학습률 스켈쥴러 활성화 통해 학습률을 부드럽게 감소)
 ```bash
 yolo train model=sajeon_haksup2.pt data=data.yaml epochs=100 imgsz=640 batch=16 pretrained=True lr0=0.01 freeze=10 cos_lr=True
 ```
 
+## 다섯 번쨰 하이퍼 파라미터 튜닝 (예정)
