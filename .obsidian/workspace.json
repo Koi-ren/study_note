@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2차 프로젝트 연구 노트.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2차 프로젝트 연구 노트"
+              "title": "README"
             }
           }
         ]
@@ -171,10 +171,10 @@
   },
   "active": "d0991c3dab15780b",
   "lastOpenFiles": [
+    "2차 프로젝트 연구 노트.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "npu 쓸래요.md",
     "yolov8 사용법.md",
-    "2차 프로젝트 연구 노트.md",
     "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
