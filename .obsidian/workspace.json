@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb47a06a376edfb",
+        "id": "62d3f462c8091a15",
         "type": "tabs",
         "children": [
           {
-            "id": "1977ebd61272e4e0",
+            "id": "d0991c3dab15780b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,22 +169,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1977ebd61272e4e0",
+  "active": "d0991c3dab15780b",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
     "P_curve.png",
-    "npu 쓸래요.md",
-    "README.md",
     "2차 프로젝트 연구 노트.md",
-=======
     "README.md",
-    "2차 프로젝트 연구 노트.md",
     "npu 쓸래요.md",
->>>>>>> Stashed changes
-    "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
+    "api.md",
+    "노트 정리.md",
+    "3차 프로젝트 주제.md",
     "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
+    "Project/현대로템/2차 프로젝트/교수님 피드백/첨언.md",
+    "Project/현대로템/2차 프로젝트/교수님 피드백/1차 발표 피드백.md",
+    "Project/현대로템/2차 프로젝트/교수님 피드백/2차 발표 피드백.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
-    "3차 프로젝트 주제.md"
+    "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
+    "yolov8 사용법.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md"
   ]
 }
