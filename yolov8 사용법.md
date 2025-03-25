@@ -39,7 +39,7 @@ yolo predict model=C:/Users/USER/Desktop/yolov8-main/yolov8-main/gkrltlfgdmsrj.v
 ```
 
 ## 세 번째 파인튜닝
-- 소요시간 : 30m 21s
+- 소요 시간 : 30m 21s
 - 정확도 현저히 떨어짐
 - - 시도 방안 : 기존 data 와 merge 를 통해 fine tuning
 - 학습 결과 : 기존 대비 성능 30% 증가
@@ -50,6 +50,7 @@ yolo predict model=C:/Users/USER/Desktop/yolov8-main/yolov8-main/gkrltlfgdmsrj.v
 ```
 
 ## 네 번째 하이퍼 파라미터 튜닝
+- 소요 시간 : 28m
 - 정확도 범위 : 70 ~ 90%
 - 정확도 자체의 정밀도는 증가했으나 학교 출석에 사용될 정도로 정밀하지는 않음
 - 따라서 하이퍼 파라미터 튜닝 진행 : 
@@ -61,6 +62,7 @@ yolo predict model=C:/Users/USER/Desktop/yolov8-main/yolov8-main/gkrltlfgdmsrj.v
 yolo train model=sajeon_haksup2.pt data=data.yaml epochs=100 imgsz=640 batch=16 pretrained=True lr0=0.01 freeze=10 cos_lr=True
 ```
 ## 다섯 번쨰 하이퍼 파라미터 튜닝 (진행중)
+- 소요 시간 : 
 - 기존에는 데이터 증강 기본값을 사용함(mosic=1.0, hsv_h=0.015 emd)
 - 데이터 증강 수치 조정
 	- close_mosic=5 $\rightarrow$ 모자이크를 마지막 epochs=10 에서 멈추던걸 epochs=5까지 더 오래 유지
