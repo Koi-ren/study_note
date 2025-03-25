@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "2차 프로젝트 연구 노트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2차 프로젝트 연구 노트"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9c0fe2025133f90f",
@@ -172,16 +171,11 @@
   },
   "active": "1977ebd61272e4e0",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "P_curve.png",
+    "npu 쓸래요.md",
+    "README.md",
     "2차 프로젝트 연구 노트.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
-    "npu 쓸래요.md",
-    "yolov8 사용법.md",
-=======
-    "npu 쓸래요.md",
-    "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
-    "2차 프로젝트 연구 노트.md",
->>>>>>> 4849b84e3d2aced1fb08e2c1913c4c3fb91576f1
     "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/2차 프로젝트 기획서.md",
