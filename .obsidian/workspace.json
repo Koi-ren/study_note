@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63aee26dc2881d35",
+            "id": "309cdac441aa8550",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/딥러닝/케라스/케라스 딥러닝 - 4장.md",
+                "file": "Langchain 강의 요약.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "케라스 딥러닝 - 4장"
+              "title": "Langchain 강의 요약"
+            }
+          },
+          {
+            "id": "9a7933ab1619b258",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "워드 임베딩(Word Embedding).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "워드 임베딩(Word Embedding)"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9c0fe2025133f90f",
@@ -181,10 +196,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "63aee26dc2881d35",
+  "active": "309cdac441aa8550",
   "lastOpenFiles": [
-    "Area/기저지식/분류와 회귀에서 사용하는 용어.md",
+    "워드 임베딩(Word Embedding).md",
+    "Langchain 강의 요약.md",
+    "Langchain 강의 요약-20250327-1.png",
+    "Langchain 강의 요약-20250327.png",
+    "Project/현대로템/강의 요약/트랜스포머 강의 요약.md",
+    "Project/현대로템/강의 요약/LLM 강의 요약.md",
     "Area/딥러닝/케라스/케라스 딥러닝 - 4장.md",
+    "Area/기저지식/분류와 회귀에서 사용하는 용어.md",
     "Area/통계학/통계적 모형/통계학의 기본 전제.md",
     "Area/딥러닝/트랜스포머/RNN 한계.md",
     "RNN.md",
@@ -205,11 +226,7 @@
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 2안.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(자체 작성).md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
-    "Project/현대로템/강의 요약/트랜스포머 강의 요약.md",
     "Area/딥러닝/트랜스포머",
-    "Archive/npu 쓸래요.md",
-    "api.md",
-    "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
     "Area/통계학/통계적 모형",
     "Area/통계학",
     "Resources/image/P_curve.png"
