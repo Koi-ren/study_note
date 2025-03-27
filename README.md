@@ -55,6 +55,9 @@
 - [[BERT]]
 - [[GPT]]
 - [[텍스트 마이닝]]
+- [[과적합(overfitting)]]
+- [[keras.sequential()의 리스트 방식과 .add()방식]]
+- [[멀티-핫 인코딩(multi-hot encoding)]]
 
 
 ## 프로젝트
