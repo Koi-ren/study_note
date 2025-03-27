@@ -1,5 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Koi-ren=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
 
 현대로템 k-방산 AI 모델 개발과정 2기
 
