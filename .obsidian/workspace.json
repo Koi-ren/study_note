@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "케라스 딥러닝 - 4장"
             }
+          },
+          {
+            "id": "4a53e96b52c22c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/현대로템/강의 요약/기획 및 데이터 전처리.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "기획 및 데이터 전처리"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +175,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,13 +185,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1977ebd61272e4e0",
+  "active": "4a53e96b52c22c14",
   "lastOpenFiles": [
+    "Project/현대로템/코드/video_detection_results.json",
+    "Project/현대로템/코드/attendance_result.json",
+    "Project/현대로템/코드/kizu.ipynb",
+    "Project/현대로템/코드/json_handling.ipynb",
+    "Project/현대로템/kizu.ipynb",
+    "Project/현대로템/json_handling.ipynb",
+    "Project/현대로템/코드",
+    "Project/현대로템/새 폴더",
+    "Project/현대로템/강의 요약/데이터 분석 강의 요약.md",
+    "Project/현대로템/강의 요약/딥러닝 강의 요약.md",
+    "아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
+    "Area/기저지식/keras.sequential()의 리스트 방식과 .add()방식.md",
+    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 4장.md",
+    "Untitled",
     "Resources/image/활성화 함수-20250328.png",
     "Resources/image/활성화 함수-20250328-2.png",
     "Resources/image/활성화 함수-20250328-1.png",
     "ㅎ.md",
-    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 4장.md",
     "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
     "Area/통계학/통계적 모형/통계학의 기본 전제.md",
     "Area/칼만필터/LPF.md",
@@ -197,14 +226,9 @@
     "Area/통계학",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
-    "Area/딥러닝/케라스/케라스 창시자 어쩌구",
     "Area/기저지식/트랜스포머.md",
     "Area/기저지식/텍스트 마이닝.md",
     "Area/기저지식/텍스트 데이터 전처리.md",
-    "Area/기저지식/워드 임베딩(Word Embedding).md",
-    "Area/기저지식/셀프 어텐션.md",
-    "Area/기저지식/분류와 회귀에서 사용하는 용어.md",
-    "Area/기저지식/멀티-핫 인코딩(multi-hot encoding).md",
     "Resources/image/P_curve.png",
     "P_curve.png"
   ]
