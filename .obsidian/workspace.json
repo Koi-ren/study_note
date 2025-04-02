@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4d12a65daa100748",
+  "active": "4a53e96b52c22c14",
   "lastOpenFiles": [
-    "Untitled.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
+    "Untitled.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(자체 작성).md",
     "아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
     "Project/현대로템/2차 프로젝트.zip",
