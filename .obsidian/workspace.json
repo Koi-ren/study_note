@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9c0fe2025133f90f",
@@ -173,10 +172,10 @@
   },
   "active": "b7155e765faeb7d2",
   "lastOpenFiles": [
-    "운동학 이동 알고리즘-배회하기-20250406.png",
     "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
-    "Area/게임을 위한 AI/3장",
     "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
+    "운동학 이동 알고리즘-배회하기-20250406.png",
+    "Area/게임을 위한 AI/3장",
     "Area/게임을 위한 AI/게임 AI 모델 소개.md",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
     "README.md",
@@ -217,7 +216,6 @@
     "Resources/image/활성화 함수-20250328-1.png",
     "ㅎ.md",
     "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
-    "Resources/image/케라스 딥러닝 - 4장-20250327.png",
-    "Resources/image/Langchain 강의 요약-20250327.png"
+    "Resources/image/케라스 딥러닝 - 4장-20250327.png"
   ]
 }
