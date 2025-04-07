@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb47a06a376edfb",
+        "id": "d6b3171e56d06a99",
         "type": "tabs",
         "children": [
           {
-            "id": "58bed3c887b4dfcf",
+            "id": "bccd20d9be2ac278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Area/게임을 위한 AI/3장/조종 행동.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,12 +170,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "58bed3c887b4dfcf",
+  "active": "bccd20d9be2ac278",
   "lastOpenFiles": [
     "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
+    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
     "Area/게임을 위한 AI/3장/조종 행동.md",
     "Area/게임을 위한 AI/게임 AI 모델 소개.md",
-    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
     "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
