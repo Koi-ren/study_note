@@ -4,20 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "9fb47a06a376edfb",
+        "id": "d6b3171e56d06a99",
         "type": "tabs",
         "children": [
           {
-            "id": "4a53e96b52c22c14",
+            "id": "bccd20d9be2ac278",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Untitled.md",
+=======
+                "file": "Area/게임을 위한 AI/3장/조종 행동.md",
+>>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< HEAD
               "title": "Untitled"
             }
           },
@@ -33,6 +38,9 @@
               },
               "icon": "lucide-file",
               "title": "Untitled 1"
+=======
+              "title": "조종 행동"
+>>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
             }
           }
         ],
@@ -175,16 +183,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
+<<<<<<< HEAD
   "active": "377dbe98bc2e68c3",
   "lastOpenFiles": [
     "Untitled 1.md",
@@ -192,27 +201,56 @@
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
     "README.md",
     "아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
+=======
+  "active": "bccd20d9be2ac278",
+  "lastOpenFiles": [
+    "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
+    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
+    "Area/게임을 위한 AI/3장/조종 행동.md",
+    "Area/게임을 위한 AI/게임 AI 모델 소개.md",
+    "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
+    "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
+    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
+    "README.md",
+    "Project/현대로템/2차 프로젝트/현대로템 2차 프로젝트 진행 기록.md",
+>>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
-    "Project/현대로템/3차 프로젝트/3차 프로젝트 주제.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(자체 작성).md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 2안.md",
+    "Untitled",
+    "Resources/image/운동학 이동 알고리즘-배회하기-20250406.png",
+    "Area/게임을 위한 AI/3장",
+    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
+    "Archive/문제를 정의하는 법.md",
+    "Archive/기능 불문 메모장.md",
+    "Area/기저지식/빠른 텐서 연산을 위한 자료구조.md",
+    "1, 1, 0], [1, 1, 0], [0, 0, 1.md",
+    "Area/기저지식/멀티-핫 인코딩(multi-hot encoding).md",
+    "Area/기저지식/분류와 회귀에서 사용하는 용어.md",
+    "Project/코딩 테스트 빈출유형 스터디",
+    "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
+    "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
+    "Project/현대로템/3차 프로젝트/멘토링",
+    "Project/현대로템/3차 프로젝트/멘토링/멘토링 1.md",
+    "Resources/image/ai모델.jpg",
+    "Resources/image/ai모델.jpg",
+    "ai모델 1.png",
+    "ai모델.drawio.png",
+    "ai모델.png",
+    "Area/게임을 위한 AI",
     "Project/현대로템/2차 프로젝트.zip",
     "Project/현대로템/강의 요약/기획 및 데이터 전처리.md",
     "Project/현대로템/코드/video_detection_results.json",
     "Project/현대로템/코드/attendance_result.json",
     "Project/현대로템/코드/kizu.ipynb",
     "Project/현대로템/코드/json_handling.ipynb",
-    "Project/현대로템/kizu.ipynb",
-    "Project/현대로템/json_handling.ipynb",
-    "Project/현대로템/코드",
-    "Project/현대로템/새 폴더",
     "Project/현대로템/강의 요약/데이터 분석 강의 요약.md",
-    "Project/현대로템/강의 요약/딥러닝 강의 요약.md",
-    "Area/기저지식/keras.sequential()의 리스트 방식과 .add()방식.md",
-    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 4장.md",
-    "Untitled",
     "Resources/image/활성화 함수-20250328.png",
     "Resources/image/활성화 함수-20250328-2.png",
     "Resources/image/활성화 함수-20250328-1.png",
+<<<<<<< HEAD
     "ㅎ.md",
     "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
     "Area/통계학/통계적 모형/통계학의 기본 전제.md",
@@ -231,5 +269,8 @@
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
     "Resources/image/P_curve.png",
     "P_curve.png"
+=======
+    "Resources/image/케라스 딥러닝 - 4장-20250327.png"
+>>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
   ]
 }
