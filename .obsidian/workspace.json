@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "현대로템 2차 프로젝트 기획서 1안"
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "377dbe98bc2e68c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4a53e96b52c22c14",
+  "active": "377dbe98bc2e68c3",
   "lastOpenFiles": [
-    "README.md",
+    "Untitled 1.md",
     "Untitled.md",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
+    "README.md",
     "아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
     "Project/현대로템/3차 프로젝트/3차 프로젝트 주제.md",
@@ -210,10 +227,8 @@
     "Project/현대로템/강의 요약/트랜스포머 강의 요약.md",
     "Project/현대로템/강의 요약/Langchain 강의 요약.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 2안.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
-    "Area/기저지식/트랜스포머.md",
     "Resources/image/P_curve.png",
     "P_curve.png"
   ]
