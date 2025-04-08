@@ -1,64 +1,41 @@
 {
   "main": {
-    "id": "2b6fe7aa211bca60",
+    "id": "e9fb8e1fe0ad9ba4",
     "type": "split",
     "children": [
       {
-        "id": "d6b3171e56d06a99",
+        "id": "7d2e2935c7545a37",
         "type": "tabs",
         "children": [
           {
-            "id": "bccd20d9be2ac278",
+            "id": "c6bdbc6401073538",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Untitled.md",
-=======
                 "file": "Area/게임을 위한 AI/3장/조종 행동.md",
->>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< HEAD
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "377dbe98bc2e68c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-=======
               "title": "조종 행동"
->>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "17b252c834c4ddf8",
+    "id": "bff1e8944838536d",
     "type": "split",
     "children": [
       {
-        "id": "0bafeccd0b78f694",
+        "id": "1722bb5ce9773102",
         "type": "tabs",
         "children": [
           {
-            "id": "8522f6511f3c29de",
+            "id": "3d4656039206fac3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +48,7 @@
             }
           },
           {
-            "id": "173a596c3d4a180c",
+            "id": "85086ddce97892f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -88,7 +65,7 @@
             }
           },
           {
-            "id": "e390ca4988f8dd64",
+            "id": "c15ce620777d9d57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -104,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "9c0fe2025133f90f",
+    "id": "acc1cdc5c79815a3",
     "type": "split",
     "children": [
       {
-        "id": "b7e84ad3378cec42",
+        "id": "38e8198bebb5bda6",
         "type": "tabs",
         "children": [
           {
-            "id": "6089ae69b0079a8d",
+            "id": "ecf163156acb88cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
+                "file": "Area/게임을 위한 AI/3장/조종 행동.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 프로젝트 진행 기록"
+              "title": "Backlinks for 조종 행동"
             }
           },
           {
-            "id": "b23911bd44eff80c",
+            "id": "4a5e7b3ba72c5ef6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
+                "file": "Area/게임을 위한 AI/3장/조종 행동.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 프로젝트 진행 기록"
+              "title": "Outgoing links from 조종 행동"
             }
           },
           {
-            "id": "166da561f60b8fc8",
+            "id": "bc9f3a0fbd380d1c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -160,18 +137,18 @@
             }
           },
           {
-            "id": "049ba29d898d6c3f",
+            "id": "9dd25f2456fe3878",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/현대로템/2차 프로젝트/프로젝트 진행 기록.md",
+                "file": "Area/게임을 위한 AI/3장/조종 행동.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 프로젝트 진행 기록"
+              "title": "Outline of 조종 행동"
             }
           }
         ]
@@ -183,94 +160,16 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-<<<<<<< HEAD
-  "active": "377dbe98bc2e68c3",
-  "lastOpenFiles": [
-    "Untitled 1.md",
-    "Untitled.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
-    "README.md",
-    "아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
-=======
-  "active": "bccd20d9be2ac278",
-  "lastOpenFiles": [
-    "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
-    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
-    "Area/게임을 위한 AI/3장/조종 행동.md",
-    "Area/게임을 위한 AI/게임 AI 모델 소개.md",
-    "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
-    "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
-    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
-    "README.md",
-    "Project/현대로템/2차 프로젝트/현대로템 2차 프로젝트 진행 기록.md",
->>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(자체 작성).md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 2안.md",
-    "Untitled",
-    "Resources/image/운동학 이동 알고리즘-배회하기-20250406.png",
-    "Area/게임을 위한 AI/3장",
-    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
-    "Archive/문제를 정의하는 법.md",
-    "Archive/기능 불문 메모장.md",
-    "Area/기저지식/빠른 텐서 연산을 위한 자료구조.md",
-    "1, 1, 0], [1, 1, 0], [0, 0, 1.md",
-    "Area/기저지식/멀티-핫 인코딩(multi-hot encoding).md",
-    "Area/기저지식/분류와 회귀에서 사용하는 용어.md",
-    "Project/코딩 테스트 빈출유형 스터디",
-    "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
-    "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
-    "Project/현대로템/3차 프로젝트/멘토링",
-    "Project/현대로템/3차 프로젝트/멘토링/멘토링 1.md",
-    "Resources/image/ai모델.jpg",
-    "Resources/image/ai모델.jpg",
-    "ai모델 1.png",
-    "ai모델.drawio.png",
-    "ai모델.png",
-    "Area/게임을 위한 AI",
-    "Project/현대로템/2차 프로젝트.zip",
-    "Project/현대로템/강의 요약/기획 및 데이터 전처리.md",
-    "Project/현대로템/코드/video_detection_results.json",
-    "Project/현대로템/코드/attendance_result.json",
-    "Project/현대로템/코드/kizu.ipynb",
-    "Project/현대로템/코드/json_handling.ipynb",
-    "Project/현대로템/강의 요약/데이터 분석 강의 요약.md",
-    "Resources/image/활성화 함수-20250328.png",
-    "Resources/image/활성화 함수-20250328-2.png",
-    "Resources/image/활성화 함수-20250328-1.png",
-<<<<<<< HEAD
-    "ㅎ.md",
-    "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
-    "Area/통계학/통계적 모형/통계학의 기본 전제.md",
-    "Area/칼만필터/LPF.md",
-    "Area/칼만필터/평균필터.md",
-    "Area/칼만필터/칼만필터.md",
-    "Area/칼만필터/이동평균필터.md",
-    "npu 쓸래요.md",
-    "Resources/image/케라스 딥러닝 - 4장-20250327.png",
-    "Resources/image/Langchain 강의 요약-20250327.png",
-    "Resources/image/Langchain 강의 요약-20250327-1.png",
-    "Project/현대로템/강의 요약/트랜스포머 강의 요약.md",
-    "Project/현대로템/강의 요약/Langchain 강의 요약.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 2안.md",
-    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
-    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
-    "Resources/image/P_curve.png",
-    "P_curve.png"
-=======
-    "Resources/image/케라스 딥러닝 - 4장-20250327.png"
->>>>>>> 1878ac785eaaff9ad974da5064b022a7a689b81f
-  ]
+  "active": "c6bdbc6401073538",
+  "lastOpenFiles": []
 }
