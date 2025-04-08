@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "2b6fe7aa211bca60",
+    "id": "e9fb8e1fe0ad9ba4",
     "type": "split",
     "children": [
       {
-        "id": "d6b3171e56d06a99",
+        "id": "7d2e2935c7545a37",
         "type": "tabs",
         "children": [
           {
@@ -42,15 +42,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "17b252c834c4ddf8",
+    "id": "bff1e8944838536d",
     "type": "split",
     "children": [
       {
-        "id": "0bafeccd0b78f694",
+        "id": "1722bb5ce9773102",
         "type": "tabs",
         "children": [
           {
-            "id": "8522f6511f3c29de",
+            "id": "3d4656039206fac3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +63,7 @@
             }
           },
           {
-            "id": "173a596c3d4a180c",
+            "id": "85086ddce97892f2",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "e390ca4988f8dd64",
+            "id": "c15ce620777d9d57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +96,20 @@
     "width": 300
   },
   "right": {
-    "id": "9c0fe2025133f90f",
+    "id": "acc1cdc5c79815a3",
     "type": "split",
     "children": [
       {
-        "id": "b7e84ad3378cec42",
+        "id": "38e8198bebb5bda6",
         "type": "tabs",
         "children": [
           {
-            "id": "6089ae69b0079a8d",
+            "id": "ecf163156acb88cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20250407.md",
+                "file": "Project/Day Planners/Day Planner-20250407.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +123,12 @@
             }
           },
           {
-            "id": "b23911bd44eff80c",
+            "id": "4a5e7b3ba72c5ef6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20250407.md",
+                "file": "Project/Day Planners/Day Planner-20250407.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,7 +137,7 @@
             }
           },
           {
-            "id": "166da561f60b8fc8",
+            "id": "bc9f3a0fbd380d1c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,28 +152,18 @@
             }
           },
           {
-            "id": "049ba29d898d6c3f",
+            "id": "9dd25f2456fe3878",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20250407.md",
+                "file": "Project/Day Planners/Day Planner-20250407.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of Day Planner-20250407"
-            }
-          },
-          {
-            "id": "c01d5b22bcf20f19",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Day Planner Timeline"
             }
           }
         ],
@@ -185,17 +175,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfef533c16bc42c3",
+  "active": "7fbf8853160eb130",
   "lastOpenFiles": [
     "DayPlanner-20250408.md",
     "Project/Day Planners/Day Planner-20250407.md",
@@ -229,7 +219,6 @@
     "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
     "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
     "Project/현대로템/3차 프로젝트/멘토링",
-    "Resources/image/ai모델.jpg",
     "Resources/image/ai모델.jpg",
     "ai모델 1.png",
     "ai모델.drawio.png",
