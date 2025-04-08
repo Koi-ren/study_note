@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRG 논문 번역.md",
+                "file": "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TRG 논문 번역"
+              "title": "운동학 이동 알고리즘"
+            }
+          },
+          {
+            "id": "45dbaab38e13a121",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전차 키 입력 당 가속도 분석.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "전차 키 입력 당 가속도 분석"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TRG 논문 번역.md",
+                "file": "전차 키 입력 당 가속도 분석.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TRG 논문 번역"
+              "title": "Outline of 전차 키 입력 당 가속도 분석"
             }
           }
         ],
@@ -188,16 +203,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfef533c16bc42c3",
+  "active": "45dbaab38e13a121",
   "lastOpenFiles": [
+    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
+    "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
+    "Area/게임을 위한 AI/3장/조종 행동.md",
+    "전차 키 입력 당 가속도 분석.md",
+    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
+    "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
+    "Archive/문제를 정의하는 법.md",
+    "Archive/딥러닝 시험 요약!.md",
+    "Archive/기능 불문 메모장.md",
+    "Archive/논문 번역/TRG 논문 번역.md",
     "Project/Day Planners/DayPlanner-20250408.md",
+    "Archive/논문 번역",
+    "Area/게임을 위한 AI/게임 AI 모델 소개.md",
     "Project/Day Planners/Day Planner-20250407.md",
     "2025-04-07.md",
-    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
-    "Area/게임을 위한 AI/3장/조종 행동.md",
     "Project/Day Planners",
-    "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
-    "Area/게임을 위한 AI/게임 AI 모델 소개.md",
     "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
@@ -208,19 +231,11 @@
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 2안.md",
-    "Untitled",
     "Resources/image/운동학 이동 알고리즘-배회하기-20250406.png",
     "Area/게임을 위한 AI/3장",
-    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
-    "Archive/문제를 정의하는 법.md",
-    "Archive/기능 불문 메모장.md",
     "Area/기저지식/빠른 텐서 연산을 위한 자료구조.md",
     "1, 1, 0], [1, 1, 0], [0, 0, 1.md",
-    "Area/기저지식/멀티-핫 인코딩(multi-hot encoding).md",
-    "Area/기저지식/분류와 회귀에서 사용하는 용어.md",
     "Project/코딩 테스트 빈출유형 스터디",
-    "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
-    "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
     "Project/현대로템/3차 프로젝트/멘토링",
     "Resources/image/ai모델.jpg",
     "ai모델 1.png",
