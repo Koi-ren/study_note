@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,12 +233,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a5506ef7058c1060",
+  "active": "67110d82d71aaece",
   "lastOpenFiles": [
-    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
-    "Area/게임을 위한 AI/3장/조종 행동.md",
     "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
+    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
+    "Area/게임을 위한 AI/3장/조종 행동.md",
     "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "Project/Day Planners/DayPlanner-20250409.md",
