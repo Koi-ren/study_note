@@ -22,20 +22,21 @@
             }
           },
           {
-            "id": "8357864585f4c44f",
+            "id": "62a6eef25aca4541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
-                "mode": "source",
+                "file": "TRG Planner.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "케라스 딥러닝 - 3장"
+              "title": "TRG Planner"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,13 +159,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/논문 번역/TRG 논문 번역.md",
+                "file": "TRG Planner.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TRG 논문 번역"
+              "title": "Outline of TRG Planner"
             }
           }
         ],
@@ -204,8 +205,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "51a2fcb1ec0f6f84",
+  "active": "62a6eef25aca4541",
   "lastOpenFiles": [
+    "TRG Planner-20250412-20.png",
+    "TRG Planner-20250412-19.png",
+    "TRG Planner-20250412-18.png",
+    "TRG Planner-20250412-17.png",
+    "TRG Planner-20250412-16.png",
+    "TRG Planner-20250412-15.png",
+    "TRG Planner-20250412-14.png",
+    "TRG Planner-20250412-13.png",
+    "TRG Planner-20250412-12.png",
+    "TRG Planner-20250412-11.png",
+    "TRG Planner-20250412-10.png",
+    "Archive/논문 번역/TRG 논문 번역.md",
+    "TRG Planner.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 4장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
@@ -218,20 +232,10 @@
     "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
     "Project/Day Planners/DayPlanner-20250409.md",
     "Project/Day Planners/Day Planner-20250407.md",
-    "Resources/image/빈출유형 스터디 2주차-20250412.png",
     "Archive/문제를 정의하는 법.md",
     "Project/자율주행 강의",
-    "Resources/image/자율주행 수업 1주차-20250410-21.png",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
     "Project/자율주행 강의/자율주행 수업 1주차.md",
-    "Resources/image/자율주행 수업 1주차-20250410.png",
-    "Resources/image/자율주행 수업 1주차-20250410-9.png",
-    "Resources/image/자율주행 수업 1주차-20250410-8.png",
-    "Resources/image/자율주행 수업 1주차-20250410-7.png",
-    "Resources/image/자율주행 수업 1주차-20250410-6.png",
-    "Resources/image/자율주행 수업 1주차-20250410-5.png",
-    "Resources/image/자율주행 수업 1주차-20250410-4.png",
-    "Resources/image/자율주행 수업 1주차-20250410-3.png",
     "Area/게임을 위한 AI/3장/조종 행동.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
@@ -240,9 +244,6 @@
     "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
     "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
     "전차 키 입력 당 가속도 분석.md",
-    "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
-    "Archive/딥러닝 시험 요약!.md",
-    "Archive/기능 불문 메모장.md",
     "Archive/논문 번역",
     "Project/Day Planners",
     "Area/게임을 위한 AI/3장",
