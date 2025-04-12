@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "51a2fcb1ec0f6f84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/논문 번역/TRG 논문 번역.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TRG 논문 번역"
-            }
-          },
-          {
             "id": "62a6eef25aca4541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRG Planner.md",
+                "file": "Day Planners/DayPlanner-20250412.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "TRG Planner"
+              "title": "DayPlanner-20250412"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "acc1cdc5c79815a3",
@@ -159,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TRG Planner.md",
+                "file": "Day Planners/DayPlanner-20250412.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TRG Planner"
+              "title": "Outline of DayPlanner-20250412"
             }
           }
         ],
@@ -205,33 +189,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62a6eef25aca4541",
+  "active": "3d4656039206fac3",
   "lastOpenFiles": [
-    "TRG Planner-20250412-20.png",
-    "TRG Planner-20250412-19.png",
-    "TRG Planner-20250412-18.png",
-    "TRG Planner-20250412-17.png",
-    "TRG Planner-20250412-16.png",
-    "TRG Planner-20250412-15.png",
-    "TRG Planner-20250412-14.png",
-    "TRG Planner-20250412-13.png",
-    "TRG Planner-20250412-12.png",
-    "TRG Planner-20250412-11.png",
-    "TRG Planner-20250412-10.png",
+    "Project/현대로템/3차 프로젝트/TRG Planner 정리.md",
     "Archive/논문 번역/TRG 논문 번역.md",
-    "TRG Planner.md",
+    "Resources/image/TRG Planner-20250412-20.png",
+    "Resources/image/TRG Planner-20250412-19.png",
+    "Resources/image/TRG Planner-20250412-18.png",
+    "Resources/image/TRG Planner-20250412-17.png",
+    "Resources/image/TRG Planner-20250412-16.png",
+    "Resources/image/TRG Planner-20250412-15.png",
+    "Resources/image/TRG Planner-20250412-14.png",
+    "Resources/image/TRG Planner-20250412-13.png",
+    "Resources/image/TRG Planner-20250412-12.png",
+    "Resources/image/TRG Planner-20250412-11.png",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 4장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
     "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
-    "Project/Day Planners/DayPlanner-20250412.md",
+    "Day Planners/DayPlanner-20250412.md",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
     "Area/기저지식/벡터 정규화.md",
     "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
     "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
-    "Project/Day Planners/DayPlanner-20250409.md",
-    "Project/Day Planners/Day Planner-20250407.md",
+    "Day Planners/DayPlanner-20250409.md",
+    "Day Planners/Day Planner-20250407.md",
     "Archive/문제를 정의하는 법.md",
     "Project/자율주행 강의",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
@@ -239,13 +222,13 @@
     "Area/게임을 위한 AI/3장/조종 행동.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
-    "Project/Day Planners/DayPlanner-20250408.md",
+    "Day Planners/DayPlanner-20250408.md",
     "Archive/시뮬레이션 운동 분석(폐기 문서).md",
     "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
     "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
     "전차 키 입력 당 가속도 분석.md",
     "Archive/논문 번역",
-    "Project/Day Planners",
+    "Day Planners",
     "Area/게임을 위한 AI/3장",
     "Project/코딩 테스트 빈출유형 스터디",
     "Project/현대로템/3차 프로젝트/멘토링",
