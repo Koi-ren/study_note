@@ -13,29 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/게임을 위한 AI/3장/조종 행동.md",
+                "file": "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "조종 행동"
+              "title": "현대로템 3차 프로젝트 연구노트"
             }
           },
           {
-            "id": "4bcaee5571651d8d",
+            "id": "20880db11ad099ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "운동학 이동 알고리즘"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,9 +166,19 @@
               "icon": "lucide-list",
               "title": "Outline of DayPlanner-20250412"
             }
+          },
+          {
+            "id": "d4c847907b3408bf",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "f453713b519a5bce",
@@ -203,12 +214,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "62a6eef25aca4541",
+  "active": "20880db11ad099ba",
   "lastOpenFiles": [
+    "Area/기저지식/RNN.md",
+    "README.md",
+    "Area/기저지식/텍스트 마이닝.md",
+    "Archive/폴더 트리출력하는 법.md",
+    "~$output.doc",
+    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
+    "output.doc",
+    "Area/통계학/통계적 모형/통계학의 기본 전제.md",
+    "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
+    "연결 노트 관리.md",
+    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
+    "Untitled.canvas",
     "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
-    "Area/기저지식/벡터 정규화.md",
+    "Area/기저지식/코루틴과 스레드의 차이.md",
+    "Area/기저지식/코루틴, 멀티프로세싱, 스레드의 차이.md",
+    "Area/기저지식/동기식 프로그래밍.md",
+    "Area/기저지식/비동기식 프로그래밍.md",
+    "Area/기저지식/비동기식 프로그래밍 vs 동기식 프로그래밍.md",
     "Area/게임을 위한 AI/3장/조종 행동.md",
-    "조종 행동-20250412.png",
+    "Area/기저지식/벡터 정규화.md",
+    "Resources/image/조종 행동-20250412.png",
     "Area/게임을 위한 AI/게임 AI 모델 소개.md",
     "Day Planners/DayPlanner-20250412.md",
     "Project/현대로템/3차 프로젝트/TRG Planner 정리.md",
@@ -227,28 +255,13 @@
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
-    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
-    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
-    "Day Planners/DayPlanner-20250409.md",
-    "Day Planners/Day Planner-20250407.md",
-    "Archive/문제를 정의하는 법.md",
     "Project/자율주행 강의",
-    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
-    "Project/자율주행 강의/자율주행 수업 1주차.md",
-    "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
-    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
-    "Day Planners/DayPlanner-20250408.md",
-    "Archive/시뮬레이션 운동 분석(폐기 문서).md",
-    "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
-    "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
     "Archive/논문 번역",
     "Day Planners",
     "Area/게임을 위한 AI/3장",
     "Project/코딩 테스트 빈출유형 스터디",
     "Project/현대로템/3차 프로젝트/멘토링",
     "Area/게임을 위한 AI",
-    "Project/현대로템/2차 프로젝트.zip",
-    "Project/현대로템/코드/video_detection_results.json",
-    "Project/현대로템/코드/attendance_result.json"
+    "Project/현대로템/2차 프로젝트.zip"
   ]
 }
