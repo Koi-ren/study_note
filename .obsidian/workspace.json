@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d2e2935c7545a37",
+        "id": "b8d89fe233c09719",
         "type": "tabs",
         "children": [
           {
-            "id": "dfef533c16bc42c3",
+            "id": "62a6eef25aca4541",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TRG 논문 번역.md",
-                "mode": "source",
-                "source": false
+                "file": "Day Planners/DayPlanner-20250412.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "TRG 논문 번역"
+              "title": "DayPlanner-20250412"
             }
           }
         ]
@@ -87,7 +87,7 @@
       {
         "id": "38e8198bebb5bda6",
         "type": "tabs",
-        "dimension": 20.348837209302324,
+        "dimension": 30.426356589147286,
         "children": [
           {
             "id": "ecf163156acb88cf",
@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TRG 논문 번역.md",
+                "file": "Day Planners/DayPlanner-20250412.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of TRG 논문 번역"
+              "title": "Outline of DayPlanner-20250412"
             }
           }
         ],
@@ -158,7 +158,7 @@
       {
         "id": "f453713b519a5bce",
         "type": "tabs",
-        "dimension": 79.65116279069767,
+        "dimension": 69.57364341085271,
         "children": [
           {
             "id": "179205a27c6e7d08",
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,52 +189,52 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfef533c16bc42c3",
+  "active": "3d4656039206fac3",
   "lastOpenFiles": [
-    "Project/Day Planners/DayPlanner-20250408.md",
-    "Project/Day Planners/Day Planner-20250407.md",
-    "2025-04-07.md",
-    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
-    "Area/게임을 위한 AI/3장/조종 행동.md",
-    "Project/Day Planners",
+    "Project/현대로템/3차 프로젝트/TRG Planner 정리.md",
+    "Archive/논문 번역/TRG 논문 번역.md",
+    "Resources/image/TRG Planner-20250412-20.png",
+    "Resources/image/TRG Planner-20250412-19.png",
+    "Resources/image/TRG Planner-20250412-18.png",
+    "Resources/image/TRG Planner-20250412-17.png",
+    "Resources/image/TRG Planner-20250412-16.png",
+    "Resources/image/TRG Planner-20250412-15.png",
+    "Resources/image/TRG Planner-20250412-14.png",
+    "Resources/image/TRG Planner-20250412-13.png",
+    "Resources/image/TRG Planner-20250412-12.png",
+    "Resources/image/TRG Planner-20250412-11.png",
+    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
+    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 4장.md",
+    "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
     "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
-    "Area/게임을 위한 AI/게임 AI 모델 소개.md",
-    "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
+    "Day Planners/DayPlanner-20250412.md",
+    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
+    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
+    "Area/기저지식/벡터 정규화.md",
+    "Area/게임을 위한 AI/3장/위치, 방위의 갱신.md",
+    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
+    "Day Planners/DayPlanner-20250409.md",
+    "Day Planners/Day Planner-20250407.md",
+    "Archive/문제를 정의하는 법.md",
+    "Project/자율주행 강의",
+    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
+    "Project/자율주행 강의/자율주행 수업 1주차.md",
+    "Area/게임을 위한 AI/3장/조종 행동.md",
     "Project/현대로템/3차 프로젝트/KDT 프로젝트 설명.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 주제.md",
-    "README.md",
-    "Project/현대로템/2차 프로젝트/현대로템 2차 프로젝트 진행 기록.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(자체 작성).md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/아이디어 정리.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 2안.md",
-    "Untitled",
-    "Resources/image/운동학 이동 알고리즘-배회하기-20250406.png",
-    "Area/게임을 위한 AI/3장",
-    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
-    "Archive/문제를 정의하는 법.md",
-    "Archive/기능 불문 메모장.md",
-    "Area/기저지식/빠른 텐서 연산을 위한 자료구조.md",
-    "1, 1, 0], [1, 1, 0], [0, 0, 1.md",
-    "Area/기저지식/멀티-핫 인코딩(multi-hot encoding).md",
-    "Area/기저지식/분류와 회귀에서 사용하는 용어.md",
-    "Project/코딩 테스트 빈출유형 스터디",
-    "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
+    "Day Planners/DayPlanner-20250408.md",
+    "Archive/시뮬레이션 운동 분석(폐기 문서).md",
     "Project/현대로템/3차 프로젝트/멘토링/멘토링 1 정리.md",
+    "Project/현대로템/3차 프로젝트/방배동 밸리 방문 전 줌 미팅.md",
+    "전차 키 입력 당 가속도 분석.md",
+    "Archive/논문 번역",
+    "Day Planners",
+    "Area/게임을 위한 AI/3장",
+    "Project/코딩 테스트 빈출유형 스터디",
     "Project/현대로템/3차 프로젝트/멘토링",
-    "Resources/image/ai모델.jpg",
-    "ai모델 1.png",
-    "ai모델.drawio.png",
-    "ai모델.png",
     "Area/게임을 위한 AI",
     "Project/현대로템/2차 프로젝트.zip",
     "Project/현대로템/코드/video_detection_results.json",
-    "Project/현대로템/코드/attendance_result.json",
-    "Project/현대로템/코드/kizu.ipynb",
-    "Resources/image/활성화 함수-20250328.png",
-    "Resources/image/활성화 함수-20250328-2.png",
-    "Resources/image/활성화 함수-20250328-1.png",
-    "Resources/image/케라스 딥러닝 - 4장-20250327.png"
+    "Project/현대로템/코드/attendance_result.json"
   ]
 }
