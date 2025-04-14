@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "현대로템 3차 프로젝트 연구노트"
             }
-          },
-          {
-            "id": "20880db11ad099ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "acc1cdc5c79815a3",
@@ -215,10 +199,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "20880db11ad099ba",
+  "active": "3d4656039206fac3",
   "lastOpenFiles": [
-    "Area/기저지식/RNN.md",
+    "Project/자율주행 강의/자율주행 수업 1주차 1.md",
+    "Project/자율주행 강의/자율주행 수업 1주차.md",
     "README.md",
+    "연결 노트 관리.md",
+    "Area/기저지식/RNN.md",
     "Area/기저지식/텍스트 마이닝.md",
     "Archive/폴더 트리출력하는 법.md",
     "~$output.doc",
@@ -226,7 +213,6 @@
     "output.doc",
     "Area/통계학/통계적 모형/통계학의 기본 전제.md",
     "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
-    "연결 노트 관리.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
     "Untitled.canvas",
     "Area/게임을 위한 AI/3장/운동학 이동 알고리즘.md",
@@ -254,8 +240,6 @@
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 2장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 4장.md",
     "Area/딥러닝/케라스/케라스 창시자 어쩌구/케라스 딥러닝 - 3장.md",
-    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
-    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
     "Project/자율주행 강의",
     "Archive/논문 번역",
     "Day Planners",
