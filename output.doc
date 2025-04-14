@@ -1,0 +1,297 @@
+폴더 PATH의 목록입니다.
+볼륨 일련 번호는 AC54-4444입니다.
+C:.
+|   .gitattributes
+|   output.doc
+|   README.md
+|   연결 노트 관리.md
+|   
++---.obsidian
+|   |   app.json
+|   |   appearance.json
+|   |   community-plugins.json
+|   |   core-plugins.json
+|   |   graph.json
+|   |   types.json
+|   |   workspace.json
+|   |   
+|   +---plugins
+|   |   +---dataview
+|   |   |       data.json
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   +---day-planner-og
+|   |   |       data.json
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   +---obsidian-git
+|   |   |       data.json
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       obsidian_askpass.sh
+|   |   |       styles.css
+|   |   |       
+|   |   +---obsidian-latex-suite
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   +---obsidian-paste-image-rename
+|   |   |       data.json
+|   |   |       main.js
+|   |   |       manifest.json
+|   |   |       styles.css
+|   |   |       
+|   |   \---table-editor-obsidian
+|   |           data.json
+|   |           main.js
+|   |           manifest.json
+|   |           styles.css
+|   |           
+|   +---snippets
+|   |       web_font.css
+|   |       
+|   \---themes
+|       \---Minimal
+|               manifest.json
+|               theme.css
+|               
++---Archive
+|   |   npu 쓸래요.md
+|   |   기능 불문 메모장.md
+|   |   딥러닝 시험 요약!.md
+|   |   문제를 정의하는 법.md
+|   |   시뮬레이션 운동 분석(폐기 문서).md
+|   |   아키텍처 설계와 서비스 개발에 대한 핵심 노트.md
+|   |   재밌는 프로젝트 주제.md
+|   |   
+|   \---논문 번역
+|           TRG 논문 번역.md
+|           
++---Area
+|   +---게임을 위한 AI
+|   |   |   게임 AI 모델 소개.md
+|   |   |   
+|   |   \---3장
+|   |           운동학 이동 알고리즘.md
+|   |           위치, 방위의 갱신.md
+|   |           조종 행동.md
+|   |           
+|   +---기저지식
+|   |       BERT.md
+|   |       GPT.md
+|   |       keras.sequential()의 리스트 방식과 .add()방식.md
+|   |       RNN 한계.md
+|   |       가상환경 만들기 예시.md
+|   |       객체 지향 프로그래밍.md
+|   |       과적합(overfitting).md
+|   |       동기식 프로그래밍.md
+|   |       멀티-핫 인코딩(multi-hot encoding).md
+|   |       벡터 정규화.md
+|   |       분류와 회귀에서 사용하는 용어.md
+|   |       비동기식 프로그래밍 vs 동기식 프로그래밍.md
+|   |       비동기식 프로그래밍.md
+|   |       빠른 텐서 연산을 위한 자료구조.md
+|   |       셀프 어텐션.md
+|   |       연쇄 법칙(Chain rule).md
+|   |       워드 임베딩(Word Embedding).md
+|   |       코루틴, 멀티프로세싱, 스레드의 차이.md
+|   |       코루틴과 스레드의 차이.md
+|   |       텍스트 데이터 전처리.md
+|   |       텍스트 마이닝.md
+|   |       트랜스포머.md
+|   |       활성화 함수.md
+|   |       
+|   +---딥러닝
+|   |   \---케라스
+|   |       \---케라스 창시자 어쩌구
+|   |               케라스 딥러닝 - 2장.md
+|   |               케라스 딥러닝 - 3장.md
+|   |               케라스 딥러닝 - 4장.md
+|   |               
+|   +---칼만필터
+|   |       LPF.md
+|   |       이동평균필터.md
+|   |       칼만필터.md
+|   |       평균필터.md
+|   |       
+|   \---통계학
+|       \---통계적 모형
+|               통계학의 기본 전제.md
+|               확률 질량 함수와 확률 밀도 함수.md
+|               
++---Day Planners
+|       Day Planner-20250407.md
+|       DayPlanner-20250408.md
+|       DayPlanner-20250409.md
+|       DayPlanner-20250412.md
+|       
++---Project
+|   +---자율주행 강의
+|   |       자율주행 수업 1주차.md
+|   |       
+|   +---코딩 테스트 빈출유형 스터디
+|   |       빈출유형 스터디 1주차.md
+|   |       빈출유형 스터디 2주차.md
+|   |       
+|   \---현대로템
+|       +---2차 프로젝트
+|       |   |   현대로템 2차 프로젝트 진행 기록.md
+|       |   |   
+|       |   +---교수님 피드백
+|       |   |       1차 발표 피드백.md
+|       |   |       2차 발표 피드백.md
+|       |   |       첨언.md
+|       |   |       
+|       |   \---문서화 및 시각화
+|       |           아이디어 정리.md
+|       |           현대로템 2차 프로젝트 기획서 1안.md
+|       |           현대로템 2차 프로젝트 기획서 2안.md
+|       |           현대로템 2차 프로젝트 연구 노트(Grok 도움).md
+|       |           현대로템 2차 프로젝트 연구 노트(자체 작성).md
+|       |           
+|       +---3차 프로젝트
+|       |   |   KDT 프로젝트 설명.md
+|       |   |   TRG Planner 정리.md
+|       |   |   방배동 밸리 방문 전 줌 미팅.md
+|       |   |   시뮬레이션 물리 분석.md
+|       |   |   현대로템 3차 프로젝트 연구노트.md
+|       |   |   현대로템 3차 프로젝트 주제.md
+|       |   |   
+|       |   \---멘토링
+|       |           멘토링 1 정리.md
+|       |           멘토링 1.md
+|       |           
+|       +---강의 요약
+|       |       Langchain 강의 요약.md
+|       |       LLM 강의 요약.md
+|       |       기획 및 데이터 전처리.md
+|       |       데이터 분석 강의 요약.md
+|       |       딥러닝 강의 요약.md
+|       |       머신러닝 강의 요약.md
+|       |       웹 프로그래밍 강의 요약.md
+|       |       트랜스포머 강의 요약.md
+|       |       
+|       \---코드
+|               attendance_result.json
+|               json_handling.ipynb
+|               kizu.ipynb
+|               video_detection_results.json
+|               
+\---Resources
+    +---image
+    |       ai모델.jpg
+    |       Langchain 강의 요약-20250327-1.png
+    |       Langchain 강의 요약-20250327.png
+    |       Pasted image 20250224110901.png
+    |       Pasted image 20250224122145.png
+    |       Pasted image 20250224130049.png
+    |       Pasted image 20250224130055.png
+    |       Pasted image 20250226130531.png
+    |       Pasted image 20250226130835.png
+    |       Pasted image 20250226130856.png
+    |       Pasted image 20250227100219.png
+    |       Pasted image 20250228095259.png
+    |       Pasted image 20250228095953.png
+    |       Pasted image 20250228101514.png
+    |       Pasted image 20250228113842.png
+    |       Pasted image 20250228113913.png
+    |       Pasted image 20250228145454.png
+    |       Pasted image 20250228145915.png
+    |       Pasted image 20250228145925.png
+    |       Pasted image 20250228150427.png
+    |       Pasted image 20250228232330.png
+    |       Pasted image 20250301002938.png
+    |       Pasted image 20250301003433.png
+    |       Pasted image 20250304165914.png
+    |       Pasted image 20250304225307.png
+    |       Pasted image 20250305224453.png
+    |       Pasted image 20250305230940.png
+    |       Pasted image 20250305230957.png
+    |       Pasted image 20250305231254.png
+    |       Pasted image 20250305231405.png
+    |       Pasted image 20250305231521.png
+    |       Pasted image 20250305231642.png
+    |       Pasted image 20250305232123.png
+    |       Pasted image 20250306102644.png
+    |       Pasted image 20250306174231.png
+    |       Pasted image 20250306174633.png
+    |       Pasted image 20250306174721.png
+    |       Pasted image 20250306174745.png
+    |       Pasted image 20250306175612.png
+    |       Pasted image 20250306180550.png
+    |       Pasted image 20250306181342.png
+    |       Pasted image 20250307174906.png
+    |       Pasted image 20250307231536.png
+    |       Pasted image 20250307234601.png
+    |       P_curve.png
+    |       TRG Planner-20250412-1.png
+    |       TRG Planner-20250412-10.png
+    |       TRG Planner-20250412-11.png
+    |       TRG Planner-20250412-12.png
+    |       TRG Planner-20250412-13.png
+    |       TRG Planner-20250412-14.png
+    |       TRG Planner-20250412-15.png
+    |       TRG Planner-20250412-16.png
+    |       TRG Planner-20250412-17.png
+    |       TRG Planner-20250412-18.png
+    |       TRG Planner-20250412-19.png
+    |       TRG Planner-20250412-2.png
+    |       TRG Planner-20250412-20.png
+    |       TRG Planner-20250412-3.png
+    |       TRG Planner-20250412-4.png
+    |       TRG Planner-20250412-5.png
+    |       TRG Planner-20250412-6.png
+    |       TRG Planner-20250412-7.png
+    |       TRG Planner-20250412-8.png
+    |       TRG Planner-20250412-9.png
+    |       TRG Planner-20250412.png
+    |       빈출유형 스터디 2주차-20250412.png
+    |       시뮬레이션 물리 분석-20250409.png
+    |       운동학 이동 알고리즘-배회하기-20250406.png
+    |       웹 프로그래밍 강의 요약-20250313.png
+    |       웹 프로그래밍-20250310.png
+    |       자율주행 수업 1주차-20250410-1.png
+    |       자율주행 수업 1주차-20250410-10.png
+    |       자율주행 수업 1주차-20250410-11.png
+    |       자율주행 수업 1주차-20250410-12.png
+    |       자율주행 수업 1주차-20250410-13.png
+    |       자율주행 수업 1주차-20250410-14.png
+    |       자율주행 수업 1주차-20250410-15.png
+    |       자율주행 수업 1주차-20250410-16.png
+    |       자율주행 수업 1주차-20250410-17.png
+    |       자율주행 수업 1주차-20250410-18.png
+    |       자율주행 수업 1주차-20250410-19.png
+    |       자율주행 수업 1주차-20250410-2.png
+    |       자율주행 수업 1주차-20250410-20.png
+    |       자율주행 수업 1주차-20250410-21.png
+    |       자율주행 수업 1주차-20250410-3.png
+    |       자율주행 수업 1주차-20250410-4.png
+    |       자율주행 수업 1주차-20250410-5.png
+    |       자율주행 수업 1주차-20250410-6.png
+    |       자율주행 수업 1주차-20250410-7.png
+    |       자율주행 수업 1주차-20250410-8.png
+    |       자율주행 수업 1주차-20250410-9.png
+    |       자율주행 수업 1주차-20250410.png
+    |       조종 행동-20250412.png
+    |       케라스 딥러닝 - 4장-20250327.png
+    |       케라스 딥러닝-3장-20250307.png
+    |       케라스 딥러닝-3장-20250308-1.png
+    |       케라스 딥러닝-3장-20250308-2.png
+    |       케라스 딥러닝-3장-20250308.png
+    |       케라스 딥러닝-3장-20250311-1.png
+    |       케라스 딥러닝-3장-20250311-2.png
+    |       케라스 딥러닝-3장-20250311.png
+    |       현재 아이디어-20250310.png
+    |       활성화 함수-20250328-1.png
+    |       활성화 함수-20250328-2.png
+    |       활성화 함수-20250328.png
+    |       
+    \---pdf
+            스토리보드.pdf
+            회의록-20250311.pdf
+            

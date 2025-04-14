@@ -1,3 +1,5 @@
+논문명: [TRG-planner: Traversal Risk Graph-Based Path Planning in Unstructured Environments for Safe and Efficient Navigation](https://arxiv.org/pdf/2501.01806)
+
 ### I. 서론
 안전하고 효율적인 경로 계획은 모바일 로봇이 자율 주행을 성공적으로 수행하는 데 필수적인 구성 요소입니다. 전통적으로 안전한 경로는 시작 지점에서 목표 지점까지 충돌이 없는 경로로 정의되었습니다[1]–[3]. 그러나 산악, 동굴, 건설 현장, 재난 지역과 같은 비정형 환경에서는 불규칙한 지형으로 인해 안전한 경로의 개념이 모호해집니다. 이는 경로의 안전성이 장애물 충돌뿐만 아니라 지형의 특성, 예를 들어 경사도와 거칠기 등에 의해서도 영향을 받기 때문입니다.
 
