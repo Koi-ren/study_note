@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "acc1cdc5c79815a3",
@@ -201,9 +200,11 @@
   },
   "active": "d138b3a3134673e1",
   "lastOpenFiles": [
+    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
+    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
+    "Area/게임을 위한 AI/3장/3 - 조종 행동.md",
     "Area/게임을 위한 AI/3장/1 - 위치, 방위의 갱신.md",
     "Area/게임을 위한 AI/3장/2 - 운동학 이동 알고리즘.md",
-    "Area/게임을 위한 AI/3장/3 - 조종 행동.md",
     "Project/현대로템/3차 프로젝트/TRG Planner 정리.md",
     "Archive/재밌는 프로젝트 주제.md",
     "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
@@ -217,10 +218,8 @@
     "Day Planners/DayPlanner-20250415.md",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 3주차.md",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
-    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
     "Day Planners/DayPlanner-20250414.md",
     "Day Planners/DayPlanner-20250412.md",
-    "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 연구노트.md",
     "Project/현대로템/강의 요약/LLM 강의 요약.md",
     "Day Planners/DayPlanner-20250409.md",
     "Project/자율주행 강의/자율주행 수업 1주차.md",
