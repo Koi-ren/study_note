@@ -3,5 +3,6 @@
   "enabledCssSnippets": [
     "web_font"
   ],
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 20
 }
