@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "중간 발표 대본"
             }
+          },
+          {
+            "id": "5a17ef9c916d08b8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -214,7 +226,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3d4656039206fac3",
+  "active": "5a17ef9c916d08b8",
   "lastOpenFiles": [
     "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
     "Untitled.md",
