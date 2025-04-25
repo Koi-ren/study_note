@@ -148,7 +148,7 @@
 - [[폴더 트리출력하는 법]]
 
 ### 데이 플래너
-- [[Day Planner-20250407]]
+- [[Day Planners/Day Planner-20250407]]
 - [[DayPlanner-20250408]]
 - [[DayPlanner-20250409]]
 - [[DayPlanner-20250412]]
