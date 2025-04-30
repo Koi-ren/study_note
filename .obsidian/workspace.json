@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d7c36ca0a3c6bf8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "빈출유형 스터디 2주차"
-            }
-          },
-          {
-            "id": "e7c1559c3d2de895",
+            "id": "4cfd2df341994619",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +22,35 @@
             }
           },
           {
-            "id": "ad4dc9d581596add",
+            "id": "aa312537803d86dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
-                "mode": "preview",
+                "file": "사거리에 따른 오차 선정.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "사거리에 따른 오차 선정"
             }
           },
           {
-            "id": "a0c69affca709d81",
+            "id": "7006f96b85efb1c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
-                "mode": "preview",
+                "file": "사거리에 따른 오차 선정표.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "현대로템 2차 프로젝트 연구 노트(Grok 도움)"
+              "title": "사거리에 따른 오차 선정표"
             }
           },
           {
-            "id": "4cfd2df341994619",
+            "id": "0983ea5e762ed5a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -135,7 +121,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "acc1cdc5c79815a3",
@@ -256,18 +243,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4cfd2df341994619",
+  "active": "0983ea5e762ed5a2",
   "lastOpenFiles": [
-    "관세 현대자동차.md",
+    "사거리에 따른 오차 선정.md",
+    "사거리에 따른 오차 선정표.md",
+    "조준 제어.md",
     "자동 사격 통제 메커니즘에 대한 고찰.md",
     "Untitled 3.md",
-    "자동 조준 메커니즘에 대한 고찰-20250430.png",
-    "조준 제어.md",
+    "Untitled 2.md",
     "Untitled 1.md",
+    "Untitled.md",
+    "사거리에 따른 오차 선정표-20250430.png",
+    "관세 현대자동차.md",
+    "자동 조준 메커니즘에 대한 고찰-20250430.png",
     "자동 조준 메커니즘에 대한 고찰-20250430-1.png",
     "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(Grok 도움).md",
     "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
-    "Untitled 2.md",
     "조준 제어-20250425.png",
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
     "Project/현대로템/3차 프로젝트/현대로템 3차 프로젝트 회의록.md",
@@ -279,20 +270,17 @@
     "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 1주차.md",
     "Archive/차량 동역학.md",
     "Project/현대로템/3차 프로젝트/중간 발표 대본.md",
-    "Untitled.md",
     "Project/자율주행 강의/자율주행 수업 2주차.md",
     "README.md",
     "(redblobgames.com).md",
     "Archive/A star 알고리즘 학습 계획.md",
     "Project/자율주행 강의/자율주행 수업 1주차.md",
-    "Project/현대로템/3차 프로젝트/TRG Planner 정리.md",
     "자율주행 수업 2주차-20250417-49.png",
     "자율주행 수업 2주차-20250417-48.png",
     "자율주행 수업 2주차-20250417-47.png",
     "자율주행 수업 2주차-20250417-46.png",
     "자율주행 수업 2주차-20250417-45.png",
     "자율주행 수업 2주차-20250417-44.png",
-    "자율주행 수업 2주차-20250417-43.png",
     "~$output.doc",
     "output.doc",
     "Untitled.canvas",
