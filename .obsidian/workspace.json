@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -256,9 +256,8 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85a98f3f213285a4",
+  "active": "2221d690345fd1ba",
   "lastOpenFiles": [
-    "고민에 대한 고찰.md",
     "사거리에 따른 오차 선정.md",
     "전차 시뮬레이터 자동 조준 시스템 설계.md",
     "탱크 시뮬레이터 자동 조준 연구 노트.md",
