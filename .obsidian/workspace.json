@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -243,13 +243,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1dc4533f6cd1d906",
+  "active": "2221d690345fd1ba",
   "lastOpenFiles": [
+    "사거리에 따른 오차 선정.md",
     "전차 시뮬레이터 자동 조준 시스템 설계.md",
     "탱크 시뮬레이터 자동 조준 연구 노트.md",
     "조준 알고리즘 설계 노트.md",
     "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
-    "사거리에 따른 오차 선정.md",
     "사거리에 따른 오차 선정표.md",
     "전차 시뮬레이터 자동 조준 시스템 설계-20250502.png",
     "조준 제어.md",
