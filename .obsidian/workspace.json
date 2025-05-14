@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "27fe7d43f23dd7d9",
+        "id": "ef98c2d471d920d1",
         "type": "tabs",
         "children": [
           {
-            "id": "6930cb2c5fa4cd0a",
+            "id": "6a317f3e6c428b7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
+                "file": "Project/현대로템/3차 프로젝트/프로그램 설계노트/차체 기울기에 따른 정 조준 알고리즘.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "빈출유형 스터디 2주차"
-            }
-          },
-          {
-            "id": "1300ec74e66d5f69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "조준 알고리즘 설계 노트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "조준 알고리즘 설계 노트"
-            }
-          },
-          {
-            "id": "f95a5ff6c773717f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "전차 시뮬레이터 자동 조준 시스템 설계.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "전차 시뮬레이터 자동 조준 시스템 설계"
-            }
-          },
-          {
-            "id": "52d82591afbaa5b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "시뮬레이션 물리 분석"
-            }
-          },
-          {
-            "id": "7dcbf280c05ccdb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 5"
-            }
-          },
-          {
-            "id": "b83cf4f25d97df02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "논리 철학 논고 개인 정리.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "논리 철학 논고 개인 정리"
+              "title": "차체 기울기에 따른 정 조준 알고리즘"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,43 +200,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b83cf4f25d97df02",
+  "active": "6a317f3e6c428b7d",
   "lastOpenFiles": [
-    "논리 철학 논고 개인 정리.md",
-    "Untitled 5.md",
-    "조준 알고리즘 설계 노트.md",
-    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
-    "전차 시뮬레이터 자동 조준 시스템 설계.md",
-    "입사지원서.md",
-    "내 경험.md",
-    "현대로템 HR팀 취업특강.md",
-    "현대로템 기업 입사 분석.md",
-    "Untitled 3.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/차체 기울기에 따른 정 조준 알고리즘.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/탱크 시뮬레이터 자동 조준 연구 의사코드.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/조준 제어.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/조준 알고리즘 설계 노트.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/전차 시뮬레이터 자동 조준 시스템 설계.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/적 움직임 예측 모델.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/사거리에 따른 오차 선정표.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/사거리에 따른 오차 선정.md",
+    "Project/현대로템/3차 프로젝트/관세 현대자동차.md",
+    "Project/현대로템/내 경험.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트",
+    "Resources/image/탐사관련.drawio (1).png",
+    "Resources/image/조준 제어-20250425.png",
     "Untitled 4.md",
+    "Untitled 3.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Archive/쓰잘데기/논리 철학 논고 개인 정리.md",
+    "Untitled 6.md",
+    "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
+    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
+    "Project/현대로템/입사지원서.md",
+    "Project/현대로템/현대로템 HR팀 취업특강.md",
+    "Project/현대로템/현대로템 기업 입사 분석.md",
     "Archive/폴더 트리출력하는 법.md",
     "Archive/A star 알고리즘 학습 계획.md",
     "Archive/차량 동역학.md",
     "Archive/재밌는 프로젝트 주제.md",
     "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
-    "Archive/쓰잘데기/문제를 정의하는 법.md",
     "Archive/쓰잘데기",
-    "Area/통계학/통계적 모형/통계학의 기본 전제.md",
-    "Area/통계학/통계적 모형/확률 질량 함수와 확률 밀도 함수.md",
-    "탐사관련.drawio (1).png",
-    "사거리에 따른 오차 선정.md",
-    "Project/코딩 테스트 빈출유형 스터디/빈출유형 스터디 2주차.md",
-    "탱크 시뮬레이터 자동 조준 연구 노트.md",
-    "전차 시뮬레이터 자동 조준 시스템 설계-20250502.png",
-    "자동 조준 메커니즘에 대한 고찰-20250430.png",
-    "사거리에 따른 오차 선정표.md",
-    "사거리에 따른 오차 선정표-20250430.png",
-    "자동 조준 메커니즘에 대한 고찰-20250430-1.png",
-    "Project/현대로템/2차 프로젝트/교수님 피드백/1차 발표 피드백.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 기획서 1안.md",
-    "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(자체 작성).md",
+    "Resources/image/전차 시뮬레이터 자동 조준 시스템 설계-20250502.png",
+    "Resources/pdf/자동 조준 메커니즘에 대한 고찰-20250430.png",
+    "Resources/pdf/사거리에 따른 오차 선정표-20250430.png",
+    "Resources/image/자동 조준 메커니즘에 대한 고찰-20250430-1.png",
     "탐사관련.drawio.png",
     "전차 시뮬레이터 자동 조준 시스템 설계-20250502-1.png",
-    "조준 제어-20250425.png",
     "자율주행 수업 2주차-20250417-49.png",
     "자율주행 수업 2주차-20250417-48.png",
     "~$output.doc",
@@ -318,7 +248,6 @@
     "Day Planners",
     "Area/게임을 위한 AI/3장",
     "Project/코딩 테스트 빈출유형 스터디",
-    "Project/현대로템/3차 프로젝트/멘토링",
-    "Area/게임을 위한 AI"
+    "Project/현대로템/3차 프로젝트/멘토링"
   ]
 }
