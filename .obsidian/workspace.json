@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/현대로템/3차 프로젝트/프로그램 설계노트/차체 기울기에 따른 정 조준 알고리즘.md",
+                "file": "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "차체 기울기에 따른 정 조준 알고리즘"
+              "title": "시뮬레이션 물리 분석"
             }
           }
         ]
@@ -202,6 +202,7 @@
   },
   "active": "6a317f3e6c428b7d",
   "lastOpenFiles": [
+    "시뮬레이션 물리 분석-20250515.png",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/차체 기울기에 따른 정 조준 알고리즘.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/탱크 시뮬레이터 자동 조준 연구 의사코드.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/조준 제어.md",
@@ -230,7 +231,6 @@
     "Archive/A star 알고리즘 학습 계획.md",
     "Archive/차량 동역학.md",
     "Archive/재밌는 프로젝트 주제.md",
-    "Archive/아키텍처 설계와 서비스 개발에 대한 핵심 노트.md",
     "Archive/쓰잘데기",
     "Resources/image/전차 시뮬레이터 자동 조준 시스템 설계-20250502.png",
     "Resources/pdf/자동 조준 메커니즘에 대한 고찰-20250430.png",
