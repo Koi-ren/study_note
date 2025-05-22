@@ -143,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
+                "file": "Project/현대로템/내 경험.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 시뮬레이션 물리 분석"
+              "title": "Outline of 내 경험"
             }
           },
           {
@@ -184,8 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,8 +200,12 @@
   },
   "active": "681b8ae30e16ec07",
   "lastOpenFiles": [
-    "Project/현대로템/3차 프로젝트/프로그램 설계노트/조준 알고리즘 설계 노트.md",
+    "000.md",
+    "강화학습 학습 시간 관련.md",
+    "강화학습 학습 시간 관련-20250522.png",
     "사격통제.png",
+    "Project/현대로템/내 경험.md",
+    "Project/현대로템/3차 프로젝트/프로그램 설계노트/조준 알고리즘 설계 노트.md",
     "Project/현대로템/3차 프로젝트/시뮬레이션 물리 분석.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/사거리에 따른 오차 선정.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/전차 시뮬레이터 자동 조준 시스템 설계.md",
@@ -211,13 +214,11 @@
     "Archive/쓰잘데기/논리 철학 논고 개인 정리.md",
     "Archive/A star 알고리즘 학습 계획.md",
     "Resources/image/시뮬레이션 물리 분석-20250515.png",
-    "000.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/차체 기울기에 따른 정 조준 알고리즘.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/탱크 시뮬레이터 자동 조준 연구 의사코드.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/적 움직임 예측 모델.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트/사거리에 따른 오차 선정표.md",
     "Project/현대로템/3차 프로젝트/관세 현대자동차.md",
-    "Project/현대로템/내 경험.md",
     "Project/현대로템/3차 프로젝트/프로그램 설계노트",
     "Resources/image/탐사관련.drawio (1).png",
     "Resources/image/조준 제어-20250425.png",
@@ -230,14 +231,12 @@
     "Project/현대로템/입사지원서.md",
     "Project/현대로템/현대로템 HR팀 취업특강.md",
     "Project/현대로템/현대로템 기업 입사 분석.md",
-    "Archive/폴더 트리출력하는 법.md",
     "Archive/쓰잘데기",
     "Resources/image/전차 시뮬레이터 자동 조준 시스템 설계-20250502.png",
     "Resources/pdf/자동 조준 메커니즘에 대한 고찰-20250430.png",
     "Resources/pdf/사거리에 따른 오차 선정표-20250430.png",
     "Resources/image/자동 조준 메커니즘에 대한 고찰-20250430-1.png",
     "탐사관련.drawio.png",
-    "전차 시뮬레이터 자동 조준 시스템 설계-20250502-1.png",
     "~$output.doc",
     "output.doc",
     "Untitled.canvas",
