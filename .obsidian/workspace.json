@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "비대위원장 발표 분석.md",
-                "mode": "source",
+                "file": "Project/현대로템/2차 프로젝트/문서화 및 시각화/현대로템 2차 프로젝트 연구 노트(자체 작성).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "비대위원장 발표 분석"
+              "title": "현대로템 2차 프로젝트 연구 노트(자체 작성)"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "yolo test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,12 +129,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "acc1cdc5c79815a3",
